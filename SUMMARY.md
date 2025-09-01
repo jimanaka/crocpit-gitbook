@@ -15,3 +15,7 @@
 * [Images & media](basics/images-and-media.md)
 * [Interactive blocks](basics/interactive-blocks.md)
 * [Integrations](basics/integrations.md)
+
+## File Transfers
+
+* [🪟 Windows Download](file-transfers/windows-download.md)
