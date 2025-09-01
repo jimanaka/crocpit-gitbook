@@ -32,3 +32,5 @@ $ cat <file> | base64 -w 0; echo
 ```powershell
 PS C:\htb> [IO.File]::WriteAllBytes("<Save Path>", [Convert]::FromBase64String("<Base64 String>"))
 ```
+{% endcode %}
+
