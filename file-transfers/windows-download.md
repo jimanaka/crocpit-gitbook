@@ -16,7 +16,7 @@ layout:
     visible: true
 ---
 
-# 🪟 Windows Download
+# Windows File Download
 
 ## Powershell
 

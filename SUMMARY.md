@@ -4,8 +4,7 @@
 
 ## File Transfers
 
-* [Page](file-transfers/page.md)
-* [🪟 Windows File Download](file-transfers/windows-download.md)
+* [Windows File Download](file-transfers/windows-download.md)
 
 ## Pivoting, Tunneling, Port Forwarding
 
