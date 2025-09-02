@@ -18,4 +18,4 @@
 
 ## File Transfers
 
-* [🪟 Windows Download](file-transfers/windows-download.md)
+* [🪟 Windows File Download](file-transfers/windows-download.md)
