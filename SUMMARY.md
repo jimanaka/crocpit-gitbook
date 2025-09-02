@@ -2,10 +2,10 @@
 
 * [Welcome](README.md)
 
-## File Transfers
+* File Transfers
 
-* [Windows File Download](file-transfers/windows-download.md)
+  * [Windows File Download](file-transfers/windows-download.md)
 
-## Pivoting, Tunneling, Port Forwarding
+* Pivoting, Tunneling, Port Forwarding
 
-* [SSH and SOCKS Tunneling](pivoting-tunneling-port-forwarding/ssh-and-socks-tunneling.md)
+  * [SSH and SOCKS Tunneling](pivoting-tunneling-port-forwarding/ssh-and-socks-tunneling.md)
