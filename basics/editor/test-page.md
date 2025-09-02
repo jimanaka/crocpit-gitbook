@@ -1,6 +1,0 @@
----
-icon: monero
----
-
-# Test Page
-
