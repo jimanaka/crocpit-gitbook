@@ -5,3 +5,12 @@
   * [Windows File Download](file-transfers/windows-download.md)
 * [Tunneling](tunneling/README.md)
   * [SSH and SOCKS Tunneling](tunneling/ssh-and-socks-tunneling.md)
+
+## Services
+
+* [FTP](services/ftp.md)
+
+## Shells
+
+* [Reverse & Bind Shells](shells/reverse-and-bind-shells.md)
+* [Web Shells](shells/web-shells.md)
